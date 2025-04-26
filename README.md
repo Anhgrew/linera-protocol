@@ -8,7 +8,6 @@
 [![Discord](https://img.shields.io/discord/984941796272521226)](https://discord.com/invite/linera)
 
 <!-- [![Build Status for Kubernetes](https://github.com/linera-io/linera-protocol/actions/workflows/kubernetes.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/kubernetes.yml) -->
-
 [Linera](https://linera.io) is a decentralized blockchain infrastructure designed for highly scalable,
 low-latency Web3 applications.
 
